@@ -1345,6 +1345,9 @@ textarea.input {
     top:auto;
     left:auto;
 }
+    .speaker-modal .speaker-modal-close{
+        right:10px;
+    }
 }
 
 @media(max-width:440px){
